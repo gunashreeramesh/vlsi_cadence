@@ -1,0 +1,27 @@
+# CMOS Inverter Design
+
+Tool Used: Cadence Virtuoso
+
+## Aim
+To design and simulate a CMOS NOT inverter.
+
+## Components Used
+PMOS transistor
+NMOS transistor
+Power supply (VDD)
+Ground (GND)
+
+## Working Principle
+
+When Input = 0  
+PMOS turns ON  
+NMOS turns OFF  
+Output = 1
+
+When Input = 1  
+PMOS turns OFF  
+NMOS turns ON  
+Output = 0
+
+## Conclusion
+The CMOS inverter produces the complement of the input signal and is the basic building block of digital circuits.
