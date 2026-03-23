@@ -1,1 +1,22 @@
+# Common Source Amplifier
 
+Tool: Cadence Virtuoso
+
+## Objective
+To design and simulate a common source amplifier.
+
+## Components Used
+- MOSFET
+- Resistors
+- Power supply
+
+## Working Principle
+The common source amplifier provides high voltage gain and inverts the input signal.
+
+## Work Done
+- Designed schematic
+- Performed simulation
+- Observed input and output waveforms
+
+## Result
+The amplifier successfully amplified the input signal.
