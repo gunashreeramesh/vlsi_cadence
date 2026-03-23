@@ -1,1 +1,31 @@
 
+# CMOS NOR Gate Design
+
+Tool: Cadence Virtuoso
+
+## Objective
+To design and simulate a CMOS NOR gate.
+
+## Components Used
+- PMOS transistors
+- NMOS transistors
+- Power supply (VDD)
+- Ground (GND)
+
+## Working Principle
+A NOR gate gives output 1 only when all inputs are 0.
+
+Truth Table:
+A B | Output
+0 0 |   1
+0 1 |   0
+1 0 |   0
+1 1 |   0
+
+## Work Done
+- Designed schematic in Cadence
+- Simulated the circuit
+- Verified output
+
+## Result
+The NOR gate operation was successfully verified.
